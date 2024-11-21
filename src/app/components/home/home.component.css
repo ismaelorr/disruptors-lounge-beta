@@ -1,0 +1,93 @@
+.hero-section {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 100px 0;
+}
+
+.hero-section h1 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.hero-section p {
+  font-size: 1.5rem;
+  margin-top: 20px;
+}
+
+.hero-section .btn-primary {
+  margin-top: 30px;
+  padding: 10px 30px;
+  font-size: 1.2rem;
+}
+
+.about-us-section {
+  background-color: #f8f9fa;
+  padding: 60px 0;
+}
+
+.about-us-section h2 {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.about-us-section p {
+  font-size: 1.2rem;
+  color: #555555;
+  margin-top: 20px;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.events-section {
+  background-color: #f8f9fa;
+  padding: 60px 0;
+}
+
+.events-section h2 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-align: center;
+  color: #333333;
+}
+
+.card-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.card-text {
+  font-size: 1rem;
+  color: #555555;
+}
+
+.events-section .btn-outline-primary {
+  margin-top: 20px;
+  padding: 10px 30px;
+  font-size: 1rem;
+}
+
+.testimonials-section {
+  background-color: #ffffff;
+  padding: 60px 0;
+}
+
+.testimonials-section h2 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-align: center;
+  color: #333333;
+}
+
+.card-text {
+  font-size: 1rem;
+  font-style: italic;
+  color: #555555;
+}
+
+.text-muted {
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: #777777;
+}
